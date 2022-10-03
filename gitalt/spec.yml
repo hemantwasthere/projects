@@ -1,0 +1,22 @@
+name: GitAlt - GitHub Clone
+tags: ["React","NextJS","TailwindCSS","GitHub","GitHub-Api"]
+starter-files: https://github.com/codedamn-projects/gitalt
+type: frontend
+level: easy
+cover-image: https://user-images.githubusercontent.com/85151171/193634737-39777042-30df-4b2a-8afd-634a02ad90e5.png
+short-description: Built a frontend clone of GitHub using the GithHub API.
+long-description: |
+  In this App you can search any user which has authorized GitHub Account associated with GitHub.
+  I have used NextJS, TailwindCSS and other libraries to build this app
+  
+  This project focuses mostly on its Funtionality. There's a tiny bit of JS included for the mobile navigation toggle. But you could also choose to do this without JS!
+  
+  You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
